@@ -1,0 +1,10 @@
+[
+  {
+    "package": "childdevdata",
+    "oncran": true
+  },
+  {
+    "package": "dscore",
+    "oncran": true
+  }
+]
