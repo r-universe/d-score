@@ -2,8 +2,5 @@
   {
     "package": "childdevdata",
     "oncran": true
-  },
-  {
-    "package": "dscore"
   }
 ]
