@@ -8,3 +8,8 @@
 	url = https://github.com/d-score/childdevdata
 	shallow = true
 	registered = true
+[submodule "dscore"]
+	path = dscore
+	url = https://github.com/d-score/dscore
+	shallow = true
+	registered = true
